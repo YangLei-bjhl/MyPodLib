@@ -7,12 +7,14 @@
 //
 
 #import "MLAppDelegate.h"
+#import <MyPodLib/LibHelper.h>
 
 @implementation MLAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    [LibHelper libLog:@"hello pod libs"];
     return YES;
 }
 							
