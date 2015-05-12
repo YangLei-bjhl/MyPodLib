@@ -14,4 +14,6 @@
 @interface LibHelper : NSObject
 
 + (void)libLog:(NSString *)log;
+
++ (void)test;
 @end
