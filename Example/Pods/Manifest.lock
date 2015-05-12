@@ -1,0 +1,17 @@
+PODS:
+  - FBSnapshotTestCase (1.8.1)
+  - MyPodLib (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - MyPodLib (from `../`)
+
+EXTERNAL SOURCES:
+  MyPodLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 3dc3899168747a0319c5278f5b3445c13a6532dd
+  MyPodLib: 82a139be374edc9432f81600627bb86a28efe2d4
+
+COCOAPODS: 0.34.4
