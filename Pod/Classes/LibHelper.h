@@ -8,6 +8,9 @@
 
 #import <Foundation/Foundation.h>
 
+/**
+ *  123
+ */
 @interface LibHelper : NSObject
 
 + (void)libLog:(NSString *)log;

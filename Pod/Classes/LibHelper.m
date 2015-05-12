@@ -13,5 +13,6 @@
 + (void)libLog:(NSString *)log
 {
     NSLog(@"%@", log);
+    assert(0);
 }
 @end
