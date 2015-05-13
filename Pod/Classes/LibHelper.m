@@ -15,4 +15,8 @@
     NSLog(@"%@", log);
     assert(0);
 }
+
++ (void)test13
+{
+}
 @end
