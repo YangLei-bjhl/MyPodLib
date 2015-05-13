@@ -19,4 +19,8 @@
 + (void)test
 {
 }
+
++ (void)test13
+{
+}
 @end

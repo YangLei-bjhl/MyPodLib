@@ -16,4 +16,6 @@
 + (void)libLog:(NSString *)log;
 
 + (void)test;
+
++ (void)test13;
 @end
