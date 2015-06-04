@@ -1,11 +1,11 @@
 PODS:
   - AFNetworking (2.5.3):
-    - AFNetworking/NSURLConnection
-    - AFNetworking/NSURLSession
-    - AFNetworking/Reachability
-    - AFNetworking/Security
-    - AFNetworking/Serialization
-    - AFNetworking/UIKit
+    - AFNetworking/NSURLConnection (= 2.5.3)
+    - AFNetworking/NSURLSession (= 2.5.3)
+    - AFNetworking/Reachability (= 2.5.3)
+    - AFNetworking/Security (= 2.5.3)
+    - AFNetworking/Serialization (= 2.5.3)
+    - AFNetworking/UIKit (= 2.5.3)
   - AFNetworking/NSURLConnection (2.5.3):
     - AFNetworking/Reachability
     - AFNetworking/Security
@@ -35,6 +35,6 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   AFNetworking: e1d86c2a96bb5d2e7408da36149806706ee122fe
   FBSnapshotTestCase: 3dc3899168747a0319c5278f5b3445c13a6532dd
-  MyPodLib: a59056503cb8a9a3b4a43a0f62f78a0d6c4e2bdf
+  MyPodLib: 2a6776207cfbd36dc6e7153ba24261a5f61c6b0c
 
-COCOAPODS: 0.34.4
+COCOAPODS: 0.37.2
